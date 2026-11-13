@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langgraph
+psycopg2-binary
+pgvector
+python-dotenv
+sqlalchemy
+python-multipart
+pydantic-settings
+qdrant-client
+langchain-google-genai
+pypdf
+langchain-text-splitters
+langchain-community
+langchain-qdrant
